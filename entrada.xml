@@ -11,8 +11,24 @@
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
 <externallink>https://github.com/addonfenix01/areslistacolaboradores/blob/main/entrada.xml</externallink>
 </channel>
-https://github.com/addonfenix01/areslistacolaboradores/blob/main/filmes.xml  
+  
+<channel>  
+<name>[COLOR blue]ADDON ARESNOVO13 [/COLOR] [COLOR orange] [COLOR orange] FILMES 2026[/COLOR]</name>
+<thumbnail>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.jpg</thumbnail>
+<fanart>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
+<externallink>https://github.com/addonfenix01/areslistacolaboradores/blob/main/filmes.xml</externallink>
+</channel>
 
+<channel>  
+<name>[COLOR green]ADDON ARESNOVO13 [/COLOR] [COLOR orange] SÉRIES 2026 [/COLOR]</name>
+<thumbnail>https://archive.org/download/aresfilmescategorias1/aresseriescategorias1.png</thumbnail>
+<fanart>https://archive.org/download/aresfilmescategorias1/aresseriescategorias1.png</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+  
   
   
 </channels>
