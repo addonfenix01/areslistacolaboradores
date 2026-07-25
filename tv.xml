@@ -1,0 +1,353 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="AgroMais 4K" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais 4K
+http://8cedga.pro:80/004780/wgmpu2/103532.ts
+#EXTINF:-1 tvg-name="AgroMais FHD" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais FHD
+http://8cedga.pro:80/004780/wgmpu2/71764.ts
+#EXTINF:-1 tvg-name="AgroMais FHD [H265]" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/71765.ts
+#EXTINF:-1 tvg-name="AgroMais HD" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais HD
+http://8cedga.pro:80/004780/wgmpu2/71766.ts
+#EXTINF:-1 tvg-name="AgroMais SD" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais SD
+http://8cedga.pro:80/004780/wgmpu2/71767.ts
+#EXTINF:-1 tvg-name="Band SP FHD" tvg-logo="http://8cedga.pro/static/logos/canais/band.png" group-title="Canais | Abertos",Band SP FHD
+http://8cedga.pro:80/004780/wgmpu2/79311.ts
+#EXTINF:-1 tvg-name="Band SP FHD [H265]" tvg-logo="http://8cedga.pro/images/abb329697106ebb6f051ab5ab2d39dfd.png" group-title="Canais | Abertos",Band SP FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/104943.ts
+#EXTINF:-1 timeshift="7" tvg-name="Band SP HD" tvg-logo="http://8cedga.pro/static/logos/canais/band.png" group-title="Canais | Abertos",Band SP HD
+http://8cedga.pro:80/004780/wgmpu2/72597.ts
+#EXTINF:-1 tvg-name="Band SP SD" tvg-logo="http://8cedga.pro/static/logos/canais/band.png" group-title="Canais | Abertos",Band SP SD
+http://8cedga.pro:80/004780/wgmpu2/79312.ts
+#EXTINF:-1 tvg-name="Canal do Boi 4K" tvg-logo="http://acstatic.co/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi 4K
+http://8cedga.pro:80/004780/wgmpu2/103516.ts
+#EXTINF:-1 tvg-name="Canal do Boi FHD" tvg-logo="http://acstatic.co/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi FHD
+http://8cedga.pro:80/004780/wgmpu2/71820.ts
+#EXTINF:-1 tvg-name="Canal do Boi HD" tvg-logo="http://acstatic.co/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi HD
+http://8cedga.pro:80/004780/wgmpu2/71821.ts
+#EXTINF:-1 tvg-name="Canal do Boi SD" tvg-logo="http://8cedga.pro/static/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi SD
+http://8cedga.pro:80/004780/wgmpu2/71822.ts
+#EXTINF:-1 tvg-name="Canal Rural 4K" tvg-logo="http://8cedga.pro/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="Canais | Abertos",Canal Rural 4K
+http://8cedga.pro:80/004780/wgmpu2/178516.ts
+#EXTINF:-1 tvg-name="Canal Rural FHD" tvg-logo="http://8cedga.pro/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="Canais | Abertos",Canal Rural FHD
+http://8cedga.pro:80/004780/wgmpu2/178512.ts
+#EXTINF:-1 tvg-name="Canal Rural FHD [H265]" tvg-logo="http://8cedga.pro/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="Canais | Abertos",Canal Rural FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/178515.ts
+#EXTINF:-1 tvg-name="Canal Rural HD" tvg-logo="http://8cedga.pro/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="Canais | Abertos",Canal Rural HD
+http://8cedga.pro:80/004780/wgmpu2/178513.ts
+#EXTINF:-1 tvg-name="Canal Rural SD" tvg-logo="http://8cedga.pro/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="Canais | Abertos",Canal Rural SD
+http://8cedga.pro:80/004780/wgmpu2/71823.ts
+#EXTINF:-1 tvg-name="Canal Rural SD" tvg-logo="http://8cedga.pro/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="Canais | Abertos",Canal Rural SD
+http://8cedga.pro:80/004780/wgmpu2/178514.ts
+#EXTINF:-1 tvg-name="Cultura 4K" tvg-logo="http://acstatic.co/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura 4K
+http://8cedga.pro:80/004780/wgmpu2/103513.ts
+#EXTINF:-1 tvg-name="Cultura FHD" tvg-logo="http://acstatic.co/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD
+http://8cedga.pro:80/004780/wgmpu2/71851.ts
+#EXTINF:-1 tvg-name="Cultura FHD [H265]" tvg-logo="http://acstatic.co/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/71852.ts
+#EXTINF:-1 timeshift="7" tvg-name="Cultura HD" tvg-logo="http://acstatic.co/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura HD
+http://8cedga.pro:80/004780/wgmpu2/71853.ts
+#EXTINF:-1 tvg-name="Cultura SD" tvg-logo="http://8cedga.pro/static/logos/canais/curta.png" group-title="Canais | Abertos",Cultura SD
+http://8cedga.pro:80/004780/wgmpu2/71854.ts
+#EXTINF:-1 tvg-name="Futura 4K" tvg-logo="http://8cedga.pro/static/logos/canais/futura.png" group-title="Canais | Abertos",Futura 4K
+http://8cedga.pro:80/004780/wgmpu2/103499.ts
+#EXTINF:-1 tvg-name="Futura FHD" tvg-logo="http://8cedga.pro/static/logos/canais/futura.png" group-title="Canais | Abertos",Futura FHD
+http://8cedga.pro:80/004780/wgmpu2/71962.ts
+#EXTINF:-1 tvg-name="Futura FHD [H265]" tvg-logo="http://8cedga.pro/static/logos/canais/futura.png" group-title="Canais | Abertos",Futura FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/71963.ts
+#EXTINF:-1 timeshift="7" tvg-name="Futura HD" tvg-logo="http://8cedga.pro/static/logos/canais/futura.png" group-title="Canais | Abertos",Futura HD
+http://8cedga.pro:80/004780/wgmpu2/71964.ts
+#EXTINF:-1 tvg-name="Futura SD" tvg-logo="http://8cedga.pro/static/logos/canais/futura.png" group-title="Canais | Abertos",Futura SD
+http://8cedga.pro:80/004780/wgmpu2/71965.ts
+#EXTINF:-1 tvg-name="RedeTV FHD" tvg-logo="http://8cedga.pro/images/730b1aa20e87fbb7b2101a02fe806630.png" group-title="Canais | Abertos",RedeTV FHD
+http://8cedga.pro:80/004780/wgmpu2/72297.ts
+#EXTINF:-1 tvg-name="RedeTV FHD [H265]" tvg-logo="http://8cedga.pro/static/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/72298.ts
+#EXTINF:-1 timeshift="7" tvg-name="RedeTV HD" tvg-logo="http://8cedga.pro/images/730b1aa20e87fbb7b2101a02fe806630.png" group-title="Canais | Abertos",RedeTV HD
+http://8cedga.pro:80/004780/wgmpu2/72299.ts
+#EXTINF:-1 tvg-name="RedeTV SD" tvg-logo="http://8cedga.pro/images/730b1aa20e87fbb7b2101a02fe806630.png" group-title="Canais | Abertos",RedeTV SD
+http://8cedga.pro:80/004780/wgmpu2/72300.ts
+#EXTINF:-1 tvg-name="RedeTV 4K" tvg-logo="http://8cedga.pro/images/730b1aa20e87fbb7b2101a02fe806630.png" group-title="Canais | Abertos",RedeTV 4K
+http://8cedga.pro:80/004780/wgmpu2/178532.ts
+#EXTINF:-1 tvg-name="SBT Rede Massa PR HD" tvg-logo="http://8cedga.pro/static/logos/canais/sbt.png" group-title="Canais | Abertos",SBT Rede Massa PR HD
+http://8cedga.pro:80/004780/wgmpu2/72305.ts
+#EXTINF:-1 tvg-name="SBT RJ FHD" tvg-logo="http://8cedga.pro/static/logos/canais/sbt.png" group-title="Canais | Abertos",SBT RJ FHD
+http://8cedga.pro:80/004780/wgmpu2/108681.ts
+#EXTINF:-1 tvg-name="SBT RJ HD" tvg-logo="http://8cedga.pro/static/logos/canais/sbt.png" group-title="Canais | Abertos",SBT RJ HD
+http://8cedga.pro:80/004780/wgmpu2/108682.ts
+#EXTINF:-1 tvg-name="SBT RJ SD" tvg-logo="http://8cedga.pro/static/logos/canais/sbt.png" group-title="Canais | Abertos",SBT RJ SD
+http://8cedga.pro:80/004780/wgmpu2/108683.ts
+#EXTINF:-1 tvg-name="SBT RS HD" tvg-logo="http://8cedga.pro/static/logos/canais/sbt.png" group-title="Canais | Abertos",SBT RS HD
+http://8cedga.pro:80/004780/wgmpu2/75028.ts
+#EXTINF:-1 tvg-name="SBT SP FHD" tvg-logo="http://8cedga.pro/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT SP FHD
+http://8cedga.pro:80/004780/wgmpu2/77963.ts
+#EXTINF:-1 tvg-name="SBT SP FHD [H265]" tvg-logo="http://8cedga.pro/static/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SP FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/104939.ts
+#EXTINF:-1 timeshift="7" tvg-name="SBT SP HD" tvg-logo="http://8cedga.pro/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT SP HD
+http://8cedga.pro:80/004780/wgmpu2/72598.ts
+#EXTINF:-1 tvg-name="SBT SP SD" tvg-logo="http://8cedga.pro/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT SP SD
+http://8cedga.pro:80/004780/wgmpu2/77964.ts
+#EXTINF:-1 tvg-name="SBT TV Alterosa HD" tvg-logo="http://fanc.tmsimg.com/assets/s104210_ll_h3_aa.png" group-title="Canais | Abertos",SBT TV Alterosa HD
+http://8cedga.pro:80/004780/wgmpu2/72621.ts
+#EXTINF:-1 tvg-name="TV Brasil 4K" tvg-logo="http://8cedga.pro/static/logos/canais/tvbrasil.png" group-title="Canais | Abertos",TV Brasil 4K
+http://8cedga.pro:80/004780/wgmpu2/103463.ts
+#EXTINF:-1 tvg-name="TV Brasil FHD" tvg-logo="http://8cedga.pro/static/logos/canais/tvbrasil.png" group-title="Canais | Abertos",TV Brasil FHD
+http://8cedga.pro:80/004780/wgmpu2/72399.ts
+#EXTINF:-1 tvg-name="TV Brasil FHD [H265]" tvg-logo="http://8cedga.pro/static/logos/canais/tvbrasil.png" group-title="Canais | Abertos",TV Brasil FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/72400.ts
+#EXTINF:-1 timeshift="7" tvg-name="TV Brasil HD" tvg-logo="http://8cedga.pro/static/logos/canais/tvbrasil.png" group-title="Canais | Abertos",TV Brasil HD
+http://8cedga.pro:80/004780/wgmpu2/72401.ts
+#EXTINF:-1 tvg-name="TV Gazeta FHD [H265]" tvg-logo="http://8cedga.pro/static/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/104919.ts
+#EXTINF:-1 tvg-name="TV Gazeta SP 4K" tvg-logo="" group-title="Canais | Abertos",TV Gazeta SP 4K
+http://8cedga.pro:80/004780/wgmpu2/178520.ts
+#EXTINF:-1 tvg-name="TV Gazeta SP FHD" tvg-logo="http://8cedga.pro/images/2baf5152b328307749ffbafedb684497.png" group-title="Canais | Abertos",TV Gazeta SP FHD
+http://8cedga.pro:80/004780/wgmpu2/104917.ts
+#EXTINF:-1 tvg-name="TV Gazeta SP HD" tvg-logo="http://8cedga.pro/images/2baf5152b328307749ffbafedb684497.png" group-title="Canais | Abertos",TV Gazeta SP HD
+http://8cedga.pro:80/004780/wgmpu2/72406.ts
+#EXTINF:-1 tvg-name="TV Gazeta SP [H265]" tvg-logo="" group-title="Canais | Abertos",TV Gazeta SP [H265]
+http://8cedga.pro:80/004780/wgmpu2/178519.ts
+#EXTINF:-1 tvg-name="TV Uniao 4K" tvg-logo="" group-title="Canais | Abertos",TV Uniao 4K
+http://8cedga.pro:80/004780/wgmpu2/103457.ts
+#EXTINF:-1 tvg-name="TV Uniao Fortaleza FHD" tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza FHD
+http://8cedga.pro:80/004780/wgmpu2/100420.ts
+#EXTINF:-1 tvg-name="TV Uniao FHD [H265]" tvg-logo="" group-title="Canais | Abertos",TV Uniao FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/100422.ts
+#EXTINF:-1 tvg-name="TV Uniao Fortaleza HD" tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza HD
+http://8cedga.pro:80/004780/wgmpu2/100423.ts
+#EXTINF:-1 tvg-name="TV Uniao Fortaleza SD" tvg-logo="" group-title="Canais | Abertos",TV Uniao Fortaleza SD
+http://8cedga.pro:80/004780/wgmpu2/100424.ts
+#EXTINF:-1 tvg-name="SBT TV Alterosa FHD" tvg-logo="http://fanc.tmsimg.com/assets/s104210_ll_h3_aa.png" group-title="Canais | Abertos",SBT TV Alterosa FHD
+http://8cedga.pro:80/004780/wgmpu2/218366.ts
+#EXTINF:-1 tvg-name="SBT RS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s103756_ll_h3_aa.png" group-title="Canais | Abertos",SBT RS FHD
+http://8cedga.pro:80/004780/wgmpu2/218367.ts
+#EXTINF:-1 tvg-name="Band Ribeirao Preto HD" tvg-logo="http://8cedga.pro/images/abb329697106ebb6f051ab5ab2d39dfd.png" group-title="Canais | Abertos",Band Ribeirao Preto HD
+http://8cedga.pro:80/004780/wgmpu2/286483.ts
+#EXTINF:-1 tvg-name="SBT Ribeirao Preto HD" tvg-logo="http://8cedga.pro/static/logos/canais/sbt.png" group-title="Canais | Abertos",SBT Ribeirao Preto HD
+http://8cedga.pro:80/004780/wgmpu2/286484.ts
+#EXTINF:-1 tvg-name="SBT VTV Santos Campinas FHD" tvg-logo="http://8cedga.pro/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT VTV Santos Campinas FHD
+http://8cedga.pro:80/004780/wgmpu2/350093.ts
+#EXTINF:-1 tvg-name="SBT VTV Santos Campinas HD" tvg-logo="http://8cedga.pro/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT VTV Santos Campinas HD
+http://8cedga.pro:80/004780/wgmpu2/350094.ts
+#EXTINF:-1 tvg-name="SBT VTV Santos Campinas SD" tvg-logo="http://8cedga.pro/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT VTV Santos Campinas SD
+http://8cedga.pro:80/004780/wgmpu2/350095.ts
+#EXTINF:-1 tvg-name="SBT Thathi Vale FHD" tvg-logo="http://8cedga.pro/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT Thathi Vale FHD
+http://8cedga.pro:80/004780/wgmpu2/350096.ts
+#EXTINF:-1 tvg-name="SBT Thathi Vale HD" tvg-logo="http://8cedga.pro/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT Thathi Vale HD
+http://8cedga.pro:80/004780/wgmpu2/350097.ts
+#EXTINF:-1 tvg-name="SBT Thathi Vale SD" tvg-logo="http://8cedga.pro/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT Thathi Vale SD
+http://8cedga.pro:80/004780/wgmpu2/350098.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Blumenau FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Blumenau FHD
+http://8cedga.pro:80/004780/wgmpu2/72004.ts
+#EXTINF:-1 timeshift="7" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Blumenau HD
+http://8cedga.pro:80/004780/wgmpu2/72005.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Blumenau SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Blumenau SD
+http://8cedga.pro:80/004780/wgmpu2/131192.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Centro Oeste FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Centro Oeste FHD
+http://8cedga.pro:80/004780/wgmpu2/135432.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Centro Oeste HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Centro Oeste HD
+http://8cedga.pro:80/004780/wgmpu2/135433.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Centro Oeste SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Centro Oeste SD
+http://8cedga.pro:80/004780/wgmpu2/135434.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Chapeco FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Chapeco FHD
+http://8cedga.pro:80/004780/wgmpu2/131174.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Chapeco HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Chapeco HD
+http://8cedga.pro:80/004780/wgmpu2/72008.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Chapeco SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Chapeco SD
+http://8cedga.pro:80/004780/wgmpu2/131190.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Criciuma FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Criciuma FHD
+http://8cedga.pro:80/004780/wgmpu2/135426.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Criciuma HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Criciuma HD
+http://8cedga.pro:80/004780/wgmpu2/135427.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Criciuma SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Criciuma SD
+http://8cedga.pro:80/004780/wgmpu2/135428.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Florianopolis FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Florianopolis FHD
+http://8cedga.pro:80/004780/wgmpu2/72010.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Florianopolis HD
+http://8cedga.pro:80/004780/wgmpu2/131183.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Florianopolis SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Florianopolis SD
+http://8cedga.pro:80/004780/wgmpu2/131144.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Joinville FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Joinville FHD
+http://8cedga.pro:80/004780/wgmpu2/91034.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Joinville HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Joinville HD
+http://8cedga.pro:80/004780/wgmpu2/131167.ts
+#EXTINF:-1 tvg-name="Globo NSC TV Joinville SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo NSC TV Joinville SD
+http://8cedga.pro:80/004780/wgmpu2/91032.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Caxias do Sul FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Caxias do Sul FHD
+http://8cedga.pro:80/004780/wgmpu2/131160.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Caxias do Sul HD
+http://8cedga.pro:80/004780/wgmpu2/72014.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Caxias do Sul SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Caxias do Sul SD
+http://8cedga.pro:80/004780/wgmpu2/131130.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Passo Fundo FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Passo Fundo FHD
+http://8cedga.pro:80/004780/wgmpu2/133064.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Passo Fundo HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Passo Fundo HD
+http://8cedga.pro:80/004780/wgmpu2/133065.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Passo Fundo SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Passo Fundo SD
+http://8cedga.pro:80/004780/wgmpu2/133066.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Pelotas FHD
+http://8cedga.pro:80/004780/wgmpu2/72617.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Pelotas HD
+http://8cedga.pro:80/004780/wgmpu2/131121.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Pelotas SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Pelotas SD
+http://8cedga.pro:80/004780/wgmpu2/131207.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Porto Alegre FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Porto Alegre FHD
+http://8cedga.pro:80/004780/wgmpu2/131102.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Porto Alegre HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Porto Alegre HD
+http://8cedga.pro:80/004780/wgmpu2/72017.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Porto Alegre SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Porto Alegre SD
+http://8cedga.pro:80/004780/wgmpu2/131198.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Santa Maria FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Santa Maria FHD
+http://8cedga.pro:80/004780/wgmpu2/135423.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Santa Maria HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Santa Maria HD
+http://8cedga.pro:80/004780/wgmpu2/135424.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Santa Maria SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Santa Maria SD
+http://8cedga.pro:80/004780/wgmpu2/135425.ts
+#EXTINF:-1 tvg-name="Globo RPC Cascavel FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC Cascavel FHD
+http://8cedga.pro:80/004780/wgmpu2/133058.ts
+#EXTINF:-1 tvg-name="Globo RPC Cascavel HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC Cascavel HD
+http://8cedga.pro:80/004780/wgmpu2/133059.ts
+#EXTINF:-1 tvg-name="Globo RPC Cascavel SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC Cascavel SD
+http://8cedga.pro:80/004780/wgmpu2/133060.ts
+#EXTINF:-1 tvg-name="Globo RPC Londrina FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC Londrina FHD
+http://8cedga.pro:80/004780/wgmpu2/133061.ts
+#EXTINF:-1 tvg-name="Globo RPC Londrina HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC Londrina HD
+http://8cedga.pro:80/004780/wgmpu2/133062.ts
+#EXTINF:-1 tvg-name="Globo RPC Londrina SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC Londrina SD
+http://8cedga.pro:80/004780/wgmpu2/133063.ts
+#EXTINF:-1 tvg-name="Globo RPC Paranavai FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC Paranavai FHD
+http://8cedga.pro:80/004780/wgmpu2/72028.ts
+#EXTINF:-1 tvg-name="Globo RPC Paranavai HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC Paranavai HD
+http://8cedga.pro:80/004780/wgmpu2/131170.ts
+#EXTINF:-1 tvg-name="Globo RPC Paranavai SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC Paranavai SD
+http://8cedga.pro:80/004780/wgmpu2/131197.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Curitiba FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Curitiba FHD
+http://8cedga.pro:80/004780/wgmpu2/131199.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Curitiba HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Curitiba HD
+http://8cedga.pro:80/004780/wgmpu2/72626.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Curitiba SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Curitiba SD
+http://8cedga.pro:80/004780/wgmpu2/131127.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Foz do Iguacu FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Foz do Iguacu FHD
+http://8cedga.pro:80/004780/wgmpu2/131149.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Foz do Iguacu HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Foz do Iguacu HD
+http://8cedga.pro:80/004780/wgmpu2/72033.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Foz do Iguacu SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Foz do Iguacu SD
+http://8cedga.pro:80/004780/wgmpu2/131206.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Maringa FHD" tvg-logo="http://8cedga.pro/images/37974de0d1d16f3b56bec27eca38a765.png" group-title="Canais | Globos Sul",Globo RPC TV Maringa FHD
+http://8cedga.pro:80/004780/wgmpu2/131101.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Maringa HD" tvg-logo="http://8cedga.pro/images/37974de0d1d16f3b56bec27eca38a765.png" group-title="Canais | Globos Sul",Globo RPC TV Maringa HD
+http://8cedga.pro:80/004780/wgmpu2/96888.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Maringa SD" tvg-logo="http://8cedga.pro/images/37974de0d1d16f3b56bec27eca38a765.png" group-title="Canais | Globos Sul",Globo RPC TV Maringa SD
+http://8cedga.pro:80/004780/wgmpu2/131125.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Ponta Grossa FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Ponta Grossa FHD
+http://8cedga.pro:80/004780/wgmpu2/131133.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Ponta Grossa HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Ponta Grossa HD
+http://8cedga.pro:80/004780/wgmpu2/72037.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Ponta Grossa SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Ponta Grossa SD
+http://8cedga.pro:80/004780/wgmpu2/131189.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Cruz Alta FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Cruz Alta FHD
+http://8cedga.pro:80/004780/wgmpu2/218827.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Santa Cruz do Sul FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Santa Cruz do Sul FHD
+http://8cedga.pro:80/004780/wgmpu2/306607.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Santa Cruz do Sul HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Santa Cruz do Sul HD
+http://8cedga.pro:80/004780/wgmpu2/306608.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Santa Cruz do Sul SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Santa Cruz do Sul SD
+http://8cedga.pro:80/004780/wgmpu2/306609.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Guarapuava FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Guarapuava FHD
+http://8cedga.pro:80/004780/wgmpu2/306674.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Guarapuava HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Guarapuava HD
+http://8cedga.pro:80/004780/wgmpu2/306675.ts
+#EXTINF:-1 tvg-name="Globo RPC TV Guarapuava SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Guarapuava SD
+http://8cedga.pro:80/004780/wgmpu2/306676.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Uruguaiana FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Uruguaiana FHD
+http://8cedga.pro:80/004780/wgmpu2/306677.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Uruguaiana HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Uruguaiana HD
+http://8cedga.pro:80/004780/wgmpu2/306678.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Uruguaiana SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Uruguaiana SD
+http://8cedga.pro:80/004780/wgmpu2/306679.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Santa Rosa FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Santa Rosa FHD
+http://8cedga.pro:80/004780/wgmpu2/306680.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Santa Rosa HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Santa Rosa HD
+http://8cedga.pro:80/004780/wgmpu2/306681.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Santa Rosa SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Santa Rosa SD
+http://8cedga.pro:80/004780/wgmpu2/306682.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Erechim FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Erechim FHD
+http://8cedga.pro:80/004780/wgmpu2/306683.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Erechim HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Erechim HD
+http://8cedga.pro:80/004780/wgmpu2/306684.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Erechim SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Erechim SD
+http://8cedga.pro:80/004780/wgmpu2/306685.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Cruz Alta HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Cruz Alta HD
+http://8cedga.pro:80/004780/wgmpu2/306686.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Cruz Alta SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Cruz Alta SD
+http://8cedga.pro:80/004780/wgmpu2/306687.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Bage FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Bage FHD
+http://8cedga.pro:80/004780/wgmpu2/306749.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Bage HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Bage HD
+http://8cedga.pro:80/004780/wgmpu2/306750.ts
+#EXTINF:-1 tvg-name="Globo RBS TV Bage SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RBS TV Bage SD
+http://8cedga.pro:80/004780/wgmpu2/306752.ts
+#EXTINF:-1 tvg-name="Globo TV Alvorada do Sul FHD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo TV Alvorada do Sul FHD
+http://8cedga.pro:80/004780/wgmpu2/350078.ts
+#EXTINF:-1 tvg-name="Globo TV Alvorada do Sul HD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo TV Alvorada do Sul HD
+http://8cedga.pro:80/004780/wgmpu2/350079.ts
+#EXTINF:-1 tvg-name="Globo TV Alvorada do Sul SD" tvg-logo="http://8cedga.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo TV Alvorada do Sul SD
+http://8cedga.pro:80/004780/wgmpu2/350080.ts
+#EXTINF:-1 tvg-name="Telecine Action 4K" tvg-logo="http://8cedga.pro/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action 4K
+http://8cedga.pro:80/004780/wgmpu2/90239.ts
+#EXTINF:-1 tvg-name="Telecine Action FHD" tvg-logo="http://8cedga.pro/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD
+http://8cedga.pro:80/004780/wgmpu2/72346.ts
+#EXTINF:-1 tvg-name="Telecine Action FHD [H265]" tvg-logo="http://8cedga.pro/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/72347.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Action HD" tvg-logo="http://8cedga.pro/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
+http://8cedga.pro:80/004780/wgmpu2/72348.ts
+#EXTINF:-1 tvg-name="Telecine Action SD" tvg-logo="http://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action SD
+http://8cedga.pro:80/004780/wgmpu2/72349.ts
+#EXTINF:-1 tvg-name="Telecine Cult 4K" tvg-logo="http://8cedga.pro/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult 4K
+http://8cedga.pro:80/004780/wgmpu2/103456.ts
+#EXTINF:-1 tvg-name="Telecine Cult FHD" tvg-logo="http://8cedga.pro/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD
+http://8cedga.pro:80/004780/wgmpu2/72350.ts
+#EXTINF:-1 tvg-name="Telecine Cult FHD [H265]" tvg-logo="http://8cedga.pro/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/72351.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Cult HD" tvg-logo="http://8cedga.pro/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
+http://8cedga.pro:80/004780/wgmpu2/72352.ts
+#EXTINF:-1 tvg-name="Telecine Cult SD" tvg-logo="http://8cedga.pro/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult SD
+http://8cedga.pro:80/004780/wgmpu2/72353.ts
+#EXTINF:-1 tvg-name="Telecine Fun 4K" tvg-logo="http://8cedga.pro/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun 4K
+http://8cedga.pro:80/004780/wgmpu2/103455.ts
+#EXTINF:-1 tvg-name="Telecine Fun FHD" tvg-logo="http://8cedga.pro/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD
+http://8cedga.pro:80/004780/wgmpu2/72354.ts
+#EXTINF:-1 tvg-name="Telecine Fun FHD [H265]" tvg-logo="http://8cedga.pro/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/72355.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Fun HD" tvg-logo="http://8cedga.pro/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD
+http://8cedga.pro:80/004780/wgmpu2/72356.ts
+#EXTINF:-1 tvg-name="Telecine Fun SD" tvg-logo="http://8cedga.pro/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun SD
+http://8cedga.pro:80/004780/wgmpu2/72357.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca 4K" tvg-logo="http://8cedga.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca 4K
+http://8cedga.pro:80/004780/wgmpu2/90238.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca FHD" tvg-logo="http://8cedga.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD
+http://8cedga.pro:80/004780/wgmpu2/72358.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="http://8cedga.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/72359.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Pipoca HD" tvg-logo="http://8cedga.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
+http://8cedga.pro:80/004780/wgmpu2/72360.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca SD" tvg-logo="http://8cedga.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca SD
+http://8cedga.pro:80/004780/wgmpu2/72361.ts
+#EXTINF:-1 tvg-name="Telecine Premium 4K" tvg-logo="http://8cedga.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium 4K
+http://8cedga.pro:80/004780/wgmpu2/90237.ts
+#EXTINF:-1 tvg-name="Telecine Premium FHD" tvg-logo="http://8cedga.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD
+http://8cedga.pro:80/004780/wgmpu2/72362.ts
+#EXTINF:-1 tvg-name="Telecine Premium FHD [H265]" tvg-logo="http://8cedga.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/72363.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Premium HD" tvg-logo="http://8cedga.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
+http://8cedga.pro:80/004780/wgmpu2/72364.ts
+#EXTINF:-1 tvg-name="Telecine Premium SD" tvg-logo="http://8cedga.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium SD
+http://8cedga.pro:80/004780/wgmpu2/72365.ts
+#EXTINF:-1 tvg-name="Telecine Touch 4K" tvg-logo="http://8cedga.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch 4K
+http://8cedga.pro:80/004780/wgmpu2/103454.ts
+#EXTINF:-1 tvg-name="Telecine Touch FHD" tvg-logo="http://8cedga.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD
+http://8cedga.pro:80/004780/wgmpu2/72366.ts
+#EXTINF:-1 tvg-name="Telecine Touch FHD [H265]" tvg-logo="http://8cedga.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD [H265]
+http://8cedga.pro:80/004780/wgmpu2/72367.ts
+#EXTINF:-1 timeshift="7" tvg-name="Telecine Touch HD" tvg-logo="http://8cedga.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
+http://8cedga.pro:80/004780/wgmpu2/72368.ts
+#EXTINF:-1 tvg-name="Telecine Touch SD" tvg-logo="http://8cedga.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch SD
+http://8cedga.pro:80/004780/wgmpu2/72369.ts
