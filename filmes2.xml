@@ -1,5 +1,6 @@
-<layouttype>thumbnail</layouttype>
-<channels>
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
 <channel>
 <name>A Baleia Cantora</name>
 <thumbnail>http://capa.tugakids.com/capas/13518550.jpg</thumbnail>
