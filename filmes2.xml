@@ -1,5 +1,5 @@
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
 
 <channel>
 <name>A Baleia Cantora</name>
@@ -1495,3 +1495,6 @@
 <externallink>http://tkapp26.buzz/API/tt12532368.txt</externallink>
 </channel>
 </channels>
+
+
+</items>
