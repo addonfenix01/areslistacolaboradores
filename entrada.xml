@@ -21,9 +21,9 @@
 </channel>
 
 <channel>  
-<name>[COLOR orange]ADDON ARES COLABORADORES [/COLOR] [COLOR pink] TV CATEGORIAS/Teste [/COLOR]</name>
-<thumbnail>https://archive.org/download/arescolaboradoresfilmes111/arescolaboradoresfilmes%281%29%281%29%281%29.png</thumbnail>
-<fanart>https://archive.org/download/arescolaboradoresfilmes111/arescolaboradoresfilmes%281%29%281%29%281%29.png</fanart>
+<name>[COLOR orange]ADDON ARES COLABORADORES [/COLOR] [COLOR pink] TV CATEGORIAS/TESTE [/COLOR]</name>
+<thumbnail>https://archive.org/download/arescolaboradorestv111/arescolaboradorestv%281%29%281%29%281%29.png</thumbnail>
+<fanart>https://archive.org/download/arescolaboradorestv111/arescolaboradorestv%281%29%281%29%281%29.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/areslistacolaboradores/refs/heads/main/tv.xml</externallink>
 </channel>
