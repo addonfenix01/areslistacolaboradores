@@ -13,19 +13,11 @@
 </channel>
   
 <channel>  
-<name>[COLOR pink]ADDON ARES COLABORADORES [/COLOR] [COLOR orange] FILMES CATEGORIAS [/COLOR]</name>
+<name>[COLOR pink]ADDON ARES COLABORADORES [/COLOR] [COLOR orange] FILMES CATEGORIAS/TESTE [/COLOR]</name>
 <thumbnail>https://archive.org/download/arescolaboradoresfilmes111/arescolaboradoresfilmes%281%29%281%29%281%29.png</thumbnail>
 <fanart>https://archive.org/download/arescolaboradoresfilmes111/arescolaboradoresfilmes%281%29%281%29%281%29.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/addonfenix01/areslistacolaboradores/refs/heads/main/filmes.xml</externallink>
-</channel>
-
-<channel>  
-<name>[COLOR green]ADDON ARES COLABORADORES [/COLOR] [COLOR yellow] FILMES CATEGORIAS 2 [/COLOR]</name>
-<thumbnail>https://archive.org/download/arescolaboradoresfilmesdiretos111/arescolaboradoresfilmesdiretos%281%29%281%29%281%29.png</thumbnail>
-<fanart>https://archive.org/download/arescolaboradoresfilmesdiretos111/arescolaboradoresfilmesdiretos%281%29%281%29%281%29.png</fanart>
-<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/addonfenix01/areslistacolaboradores/refs/heads/main/filmes2.xml</externallink>
+<externallink>https://raw.githubusercontent.com/addonfenix01/areslistacolaboradores/refs/heads/main/painel%20categorias%20filmes/painelcategoriasfilmes.xml</externallink>
 </channel>
   
 <channel>  
