@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
-
+<channel>
+<name>[B][COLOR green] ADDON ARES [/COLOR] [COLOR orange]|FILMES 1 2026[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/areslistacolaboradores/refs/heads/main/painel%20categorias%20filmes/filmeslista.xml</externallink>
+</channel>
   
 <channel>
-<name>[B][COLOR pink] FILMES LANÇAMENTOS [/COLOR] [COLOR orange]| 2026[/COLOR][/B]</name>
+<name>[B][COLOR orange] ADDON ARES [/COLOR] [COLOR green]| FILMES 2 2026[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
