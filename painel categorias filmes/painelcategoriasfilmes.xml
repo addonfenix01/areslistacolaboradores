@@ -2,7 +2,7 @@
 <channels>
 
 <channel>
-<name>[B][COLOR green] ADDON ARES [/COLOR] [COLOR orange]|FILMES 1 2026[/COLOR][/B]</name>
+<name>[B][COLOR green] ADDON ARES [/COLOR] [COLOR orange]|FILMES 1 SERVER 2026[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/arescolaboradoresfilmesdiretos111/arescolaboradoresfilmesdiretos%281%29%281%29%281%29.png</thumbnail>
 <fanart>https://archive.org/download/arescolaboradoresfilmesdiretos111/arescolaboradoresfilmesdiretos%281%29%281%29%281%29.png</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
@@ -10,13 +10,21 @@
 </channel>
   
 <channel>
-<name>[B][COLOR orange] ADDON ARES [/COLOR] [COLOR green]| FILMES 2 2026[/COLOR][/B]</name>
+<name>[B][COLOR orange] ADDON ARES [/COLOR] [COLOR green]| FILMES 2 LANÇAMENTOS 2026[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/arescolaboradoresfilmesdiretos111/arescolaboradoresfilmesdiretos%281%29%281%29%281%29.png</thumbnail>
 <fanart>https://archive.org/download/arescolaboradoresfilmesdiretos111/arescolaboradoresfilmesdiretos%281%29%281%29%281%29.png</fanart>
 <info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/areslistacolaboradores/refs/heads/main/painel%20categorias%20filmes/filmes2.xml</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR pink] ADDON ARES [/COLOR] [COLOR green]| FILMES 2 LANÇAMENTOS 2026[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR red] Sejam Bem vindos ao Addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/areslistacolaboradores/refs/heads/main/painel%20categorias%20filmes/filmespopulares.xml</externallink>
+</channel>
+  
   
   
 </channels>
